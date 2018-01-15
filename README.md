@@ -1,6 +1,10 @@
-# Ng5
+# Bucket List
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
+
+## Clone
+
+Don't forget to run 'npm install' to install all node modules after clone the project.
 
 ## Development server
 
